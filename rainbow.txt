@@ -3,6 +3,7 @@ The Rainbow - A Poem
 Purple 
 Red 
 Pink
+Yellow
 Orange
 Blue
 Green 
